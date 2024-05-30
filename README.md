@@ -1,3 +1,4 @@
-# Pricing Panel 
+# Pricing Panel
 
-Showcasing a pricing panel that utilizes a lot of CSS to style the page
+Design a responsive pricing panel utilizing a lot of CSS features
+like the box model, transitions, displays and hexadecimal color;
